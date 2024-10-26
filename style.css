@@ -48,6 +48,7 @@ button{
     border: none;
     right: 165px;
     margin-bottom: 50px;
+    cursor: pointer;
 }
 
 .panel{
@@ -117,4 +118,5 @@ button{
     display: flex;
     align-items: center;
     justify-content: center;
+    cursor:pointer;
 }
